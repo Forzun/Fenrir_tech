@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-- **Live URL:** https://your-live-url.com  
+- **Live URL:** https://fenrir-tech.vercel.app/login  
 
 The application opens to the Login screen as required.
 
@@ -27,7 +27,7 @@ The application opens to the Login screen as required.
 - Dark gradient left section
 - Sign-up form (First Name, Last Name, Email, Password) with providers
 - Light and Dark mode support 
-- **url:**https://
+- **url:**https://fenrir-tech.vercel.app/login
 
 ### 2. Dashboard (Scan List)
 - Sidebar navigation
